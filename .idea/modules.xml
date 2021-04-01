@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DbConn.iml" filepath="$PROJECT_DIR$/DbConn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sptdemo/asset-management.iml" filepath="$PROJECT_DIR$/../sptdemo/asset-management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../zhima-meeting/zhima-meeting/zhima-meeting.iml" filepath="$PROJECT_DIR$/../zhima-meeting/zhima-meeting/zhima-meeting.iml" />
+    </modules>
+  </component>
+</project>
